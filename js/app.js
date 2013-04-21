@@ -7,7 +7,7 @@ var app = (function($,window) {
 	players;
 
 	function processUrl(data) {
-		return;
+		window.alert(data);
 	}
 
 	var publicInit = function() {
